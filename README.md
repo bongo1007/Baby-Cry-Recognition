@@ -1,1 +1,3 @@
-# Baby-Cry
+# Baby-Cry-Recognition 
+
+This project contains an ipynb file for classifying baby cries using multiple neural network architectures with varied complexities
